@@ -1,3 +1,3 @@
 # CorrecteurOrtho
 
-Correcteur orthographique en C
+Polytech Project // Correcteur orthographique en C
